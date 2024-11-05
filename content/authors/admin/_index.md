@@ -142,6 +142,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: AquaHacking Great Lakes Challenges 2023-2024 Finalist – Team Maxinano
     url: https://aquaaction.org/aquahacking-great-lakes-2023-24
@@ -188,18 +189,16 @@ awards:
   - title: Essential Science Indicators (ESI) Highly Cited Paper
     url: https://www.sciencedirect.com/science/article/pii/S0048969720378013
     date: 'November 2021'
-    awarder: 
+    awarder: 1
     summary: |
       The paper titled “Assessing the impact of COVID-19 pandemic on urban transportation and air quality in Canada” is recognized as an ESI Highly Cited Paper, ranking in the top 1% of cited papers in its field and publication year according to Essential Science Indicators (ESI).
 
   - title: Concordia experts on COP26
     url: https://www.concordia.ca/cunews/main/items/2021/10/21/media-experts-cop-26.html
     date: 'October 2021'
-    awarder: 
+    awarder: 1
     summary: |
       A number of experts from Concordia University are available to comment on the COP26 summit.
-
-
 ---
 
 ## About Me
