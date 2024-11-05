@@ -2,7 +2,7 @@
 title: Assessment of reductions in NO2 emissions from thermal power plants in Canada
   based on the analysis of policy, inventory, and satellite data
 authors:
-- Xuelin Tian
+- Admin
 - Chunjiang An
 - Mazdak Nik-Bakht
 - Zhikun Chen

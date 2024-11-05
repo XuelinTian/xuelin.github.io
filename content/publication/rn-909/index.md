@@ -5,7 +5,7 @@ authors:
 - Shuyan Wan
 - Mazdak Nik-Bakht
 - Kelvin Tsun Wai Ng
-- Xuelin Tian
+- Admin
 - Chunjiang An
 - Hao Sun
 - Rengyu Yue

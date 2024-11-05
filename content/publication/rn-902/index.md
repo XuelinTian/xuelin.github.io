@@ -2,7 +2,7 @@
 title: 'The role of clean energy in achieving decarbonization of electricity generation,
   transportation, and heating sectors by 2050: A meta-analysis review'
 authors:
-- Xuelin Tian
+- Admin
 - Chunjiang An
 - Zhikun Chen
 date: '2023-01-01'

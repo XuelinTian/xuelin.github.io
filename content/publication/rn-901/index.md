@@ -2,7 +2,7 @@
 title: Assessing the impact of COVID-19 pandemic on urban transportation and air quality
   in Canada
 authors:
-- Xuelin Tian
+- Admin
 - Chunjiang An
 - Zhikun Chen
 - Zhiqiang Tian

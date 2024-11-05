@@ -2,7 +2,7 @@
 title: Quantifying weather-induced unreliable public transportation service in cold
   regions under future climate model scenarios
 authors:
-- Xuelin Tian
+- Admin
 - Chen Lu
 - Ziyang Song
 - Chunjiang An

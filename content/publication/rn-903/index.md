@@ -2,7 +2,7 @@
 title: Impact from the evolution of private vehicle fleet composition on traffic related
   emissions in the small-medium automotive city
 authors:
-- Xuelin Tian
+- Admin
 - Gordon Huang
 - Ziyang Song
 - Chunjiang An

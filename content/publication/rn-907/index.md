@@ -2,7 +2,7 @@
 title: Achieving urban net-zero targets through regionalized electric bus penetration
   and energy transition
 authors:
-- Xuelin Tian
+- Admin
 - E Owen D Waygood
 - Chunjiang An
 - Zhikun Chen
