@@ -145,66 +145,59 @@ languages:
 awards:
   - title: AquaHacking Great Lakes Challenges 2023-2024 Finalist – Team Maxinano
     url: https://aquaaction.org/aquahacking-great-lakes-2023-24
-    date: '2024-03-01'
+    date: 'March 2024'
     awarder: AquaAction
     summary: |
       We developed a electrochemical method to sperate the microplatics from the water.
-  - title: Relève Etoile Louis-Berlinguet Award (Fonds de recherche du Québec) 
-    url: https://frq.gouv.qc.ca/histoire-et-rapport/releve-etoile-louis-berlinguet-fevrier-2024/
-    date: '2023-11-01'
+
+  - title: Fonds de recherche du Québec – Nature et Technologies (FRQNT) / Bourses de doctorat en recherche (B2X) 
+    url: https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/
+    date: '2024-2025'
     awarder: Fonds de recherche du Québec
     summary: |
-      Award-winning publication : Entrainment and Enrichment of Microplastics in Ice Formation Processes: Implications for the Transport of Microplastics in Cold Regions
+      The research titled "Promouvoir les transitions urbaines vers le zéro net grâce à l'électrification des transports décarbonés face au changement climatique" received the Fonds de recherche du Québec – Nature et technologies (FRQNT) Doctoral Training Scholarship.
 
-  - title: People 2023 International Conference Best Presentation Award (2nd place)
-    url: https://www.people-network.ca/index.php/people-2023/
-    date: '2023-08-01'
+  - title: Bourses d'excellence pour étudiants étrangers (PBEEE) / Bourses de doctorat en recherche (V1)
+    url: https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/ 
+    date: '2024-2025'
+    awarder: Fonds de recherche du Québec
+    summary: |
+      The research titled "Promouvoir les transitions urbaines vers le zéro net grâce à l'électrification des transports décarbonés face au changement climatique" received the Merit Scholarship for Foreign Students (PBEEE).
+
+  - title: Certificate of Appreciation, People 2023 International Conference 
+    url: https://www.people-network.ca/index.php/people-2023/ 
+    date: 'August 2023'
     awarder: People Network
     summary: |
-      Awarded for the prensentation titled "Entrainment of Microplastics in Ice: Implications for the Transport of Microplastics in Northern Regions"
+      In recognition of my contribution as a Conference Secretariat at the PEOPLE 2023 International Conference on Collaborative Solutions to Environmental Problems under Climate Change.
+
+  - title: People 2023 International Conference Best Presentation Award (3rd place)
+    url: https://www.people-network.ca/index.php/people-2023/ 
+    date: 'August 2023'
+    awarder: People Network
+    summary: |
+      Awarded for the presentation titled “Achieving Net-Zero Targets through Regional Electric Bus Penetration and Energy Transition”.
 
   - title: Special Recognition Award, International Oil Spill Science Conference (IOSSC) 2022
-    url: https://sites.events.concordia.ca/sites/mpri/en/international-oil-spill-science-conference-2022/home
-    date: '2022-10-01'
-    awarder: People Network
+    url: https://sites.events.concordia.ca/sites/mpri/en/international-oil-spill-science-conference-2022/home 
+    date: 'October 2022'
+    awarder: IOSSC
     summary: |
       Awarded for outstanding work in the Conference Organizing Committee
 
-  - title: Mitacs Accelerate Fellowship
-    url: https://www.mitacs.ca/our-projects/advancing-sustainable-management-of-construction-renovation-and-demolition-crd-waste/v
-    date: '2021-03-01'
-    awarder: Mitacs
+  - title: Essential Science Indicators (ESI) Highly Cited Paper
+    url: https://www.sciencedirect.com/science/article/pii/S0048969720378013 
+    date: 'November 2021'
     summary: |
-      Advancing sustainable management of construction, renovation, and demolition (CRD) waste in Montreal West
+      The paper titled “Assessing the impact of COVID-19 pandemic on urban transportation and air quality in Canada” is recognized as an ESI Highly Cited Paper, ranking in the top 1% of cited papers in its field and publication year according to Essential Science Indicators (ESI).
 
-  - title: NAGS Master’s Thesis Awards
-    url: https://neags.org/2022/05/11/nags-award-announcement/
-    date: '2022-04-01'
-    awarder: Northeastern Association of Graduate Schools
+  - title: Concordia experts on COP26
+    url: https://www.concordia.ca/cunews/main/items/2021/10/21/media-experts-cop-26.html 
+    date: 'October 2021'
     summary: |
-      Awarded for the outstanding master’s thesis, titled "Green surface-washing agent and oily waste management for oil spill response"
+      A number of experts from Concordia University are available to comment on the COP26 summit.
 
-  - title: The F. A. Gerard Prize
-    url: https://www.concordia.ca/gradstudies/students/thesis-based/process/prizes-medals.html
-    date: '2020-11-01'
-    awarder: Gina Cody School of Engineering and Computer Science, Concordia University
-    summary: |
-      Awarded annually, when merited, to the most deserving graduate of the Master of/ magistrate in Applied Science and Computer Science programs (thesis).
 
-  - title: Architectural Engineering Project Prize (XJTLU)
-    date: '2018-08-01'
-    awarder: Xi'an Jiaotong-Liverpool University
-    summary: |
-      Awarded annually to the most deserving undergraduate in the program (thesis).
-
-  #- title: The F. A. Gerard Prize
-   #url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-   # certificate_url: https://www.datacamp.com
-   #date: '2023-01-21'
-   # awarder: datacamp
-   # icon: datacamp
-   # summary: |
-     # bject-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, usiOng the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
