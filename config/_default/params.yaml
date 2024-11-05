@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Zhikun Chen"
+      text: "Xuelin Tian"
 
 # Site footer
 footer:
   copyright:
-    notice: '© 2024 Zhikun Chen.'
+    notice: '© 2024 Xuelin Tian.'
     license:
       enable: true
       allow_derivatives: false
