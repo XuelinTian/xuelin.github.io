@@ -150,7 +150,7 @@ awards:
     summary: |
       We developed a electrochemical method to sperate the microplatics from the water.
 
-  - title: Fonds de recherche du Québec – Nature et Technologies (FRQNT) / Bourses de doctorat en recherche (B2X) 
+  - title: Fonds de recherche du Québec – Nature et Technologies (FRQNT) / Bourses de doctorat en recherche (B2X)
     url: https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/
     date: '2024-2025'
     awarder: Fonds de recherche du Québec
@@ -158,42 +158,42 @@ awards:
       The research titled "Promouvoir les transitions urbaines vers le zéro net grâce à l'électrification des transports décarbonés face au changement climatique" received the Fonds de recherche du Québec – Nature et technologies (FRQNT) Doctoral Training Scholarship.
 
   - title: Bourses d'excellence pour étudiants étrangers (PBEEE) / Bourses de doctorat en recherche (V1)
-    url: https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/ 
+    url: https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/
     date: '2024-2025'
     awarder: Fonds de recherche du Québec
     summary: |
       The research titled "Promouvoir les transitions urbaines vers le zéro net grâce à l'électrification des transports décarbonés face au changement climatique" received the Merit Scholarship for Foreign Students (PBEEE).
 
-  - title: Certificate of Appreciation, People 2023 International Conference 
-    url: https://www.people-network.ca/index.php/people-2023/ 
+  - title: Certificate of Appreciation, People 2023 International Conference
+    url: https://www.people-network.ca/index.php/people-2023/
     date: 'August 2023'
     awarder: People Network
     summary: |
       In recognition of my contribution as a Conference Secretariat at the PEOPLE 2023 International Conference on Collaborative Solutions to Environmental Problems under Climate Change.
 
   - title: People 2023 International Conference Best Presentation Award (3rd place)
-    url: https://www.people-network.ca/index.php/people-2023/ 
+    url: https://www.people-network.ca/index.php/people-2023/
     date: 'August 2023'
     awarder: People Network
     summary: |
       Awarded for the presentation titled “Achieving Net-Zero Targets through Regional Electric Bus Penetration and Energy Transition”.
 
   - title: Special Recognition Award, International Oil Spill Science Conference (IOSSC) 2022
-    url: https://sites.events.concordia.ca/sites/mpri/en/international-oil-spill-science-conference-2022/home 
+    url: https://sites.events.concordia.ca/sites/mpri/en/international-oil-spill-science-conference-2022/home
     date: 'October 2022'
     awarder: IOSSC
     summary: |
       Awarded for outstanding work in the Conference Organizing Committee
 
   - title: Essential Science Indicators (ESI) Highly Cited Paper
-    url: https://www.sciencedirect.com/science/article/pii/S0048969720378013 
+    url: https://www.sciencedirect.com/science/article/pii/S0048969720378013
     date: 'November 2021'
     awarder: 
     summary: |
       The paper titled “Assessing the impact of COVID-19 pandemic on urban transportation and air quality in Canada” is recognized as an ESI Highly Cited Paper, ranking in the top 1% of cited papers in its field and publication year according to Essential Science Indicators (ESI).
 
   - title: Concordia experts on COP26
-    url: https://www.concordia.ca/cunews/main/items/2021/10/21/media-experts-cop-26.html 
+    url: https://www.concordia.ca/cunews/main/items/2021/10/21/media-experts-cop-26.html
     date: 'October 2021'
     awarder: 
     summary: |
