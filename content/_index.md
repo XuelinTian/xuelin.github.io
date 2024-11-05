@@ -35,12 +35,15 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research interests centers on sustainable environmental management, including:
-        - Environmental fate of microplastics in cold regions
-        - Municipal and construction waste management
-        - Shorelien oil spill response
-        - Greenhouse gas emission and assessment
-        - Electrochemical treatement fo microplastics/nanoplastics in water
+        My research focuses on system-scale environmental sustainability analysis by combining technical solutions (e.g., machine learning, LCA) with strategic planning (e.g., climate policy, economic modeling) to deliver quantitative insights that guide sustainable decision-making, including: 
+        -	Life cycle assessment (LCA) and life cycle thinking
+        -	Greenhouse gas mitigation strategies
+        -	Environmental impacts of transportation electrification, with a focus on heavy vehicles
+        -	Energy and economic modeling for urban and transportation systems
+        -	Machine learning and deep learning applications in climate-adapted public transportation management 
+        -	AI applications in electric vehicle battery management
+        -	Climate policy, decision support models, and managing uncertainties in environmental policy
+
     design:
       columns: '1'
   - block: collection

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Zhikun Chen
+title: Xuelin Tian
 
 # Name pronunciation (optional)
 #name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Zhikun
-last_name: Chen
+first_name: Xuelin
+last_name: Tian
 
 # Status emoji
 #status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate, EIT
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,14 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:zhikun.chen1996@gmail.com'
+    url: 'mailto:xuelin.tian1122@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/zhikun-chen-27b214145/
+    url: https://www.linkedin.com/in/xuelin-tian-808535280/?originalSubdomain=ca
   - icon: academicons/google-scholar
-    url: https://scholar.google.ca/citations?user=hBcMkAoAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0001-5158-462X
+    url: https://scholar.google.com/citations?user=B4BxJpcAAAAJ&hl=en
+  #- icon: academicons/orcid
+   # url: https://orcid.org/my-orcid?orcid=0009-0001-5158-462X
 
 interests:
   - Transport of microplastics in cold regions
@@ -66,7 +66,7 @@ education:
       NAGS Master’s Thesis Awards
 
 
-  - area: BEng Civil Engineering
+  - area: BEng Urban Planning
     institution: University of Liverpool/Xi'an Jiaotong-Liverpool University
     date_start: 2014-09-01
     date_end: 2018-07-31
@@ -209,4 +209,4 @@ awards:
 
 ## About Me
 
-I am a PhD candidate in environmental engineering at the Department of Building, Civil and Environmental Engineering of Concordia University. My research interests include transport of microplastics in cold regions and seperation technologies, waste management, and oil spil response in coastal regions. I am currently looking for postdoctral position.
+I am a PhD candidate in environmental engineering at the Department of Building, Civil, and Environmental Engineering at Concordia University. My research focuses on the decarbonization of transportation through electrification, the low-carbon transition of urban energy systems, and the assessment and optimization of greenhouse gas reduction strategies. I also have expertise in data mining and predictive analytics, utilizing life cycle thinking, statistical models and machine learning/deep learning techniques to advance sustainable and resilient transportation systems. 
