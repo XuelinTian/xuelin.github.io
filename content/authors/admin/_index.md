@@ -188,12 +188,14 @@ awards:
   - title: Essential Science Indicators (ESI) Highly Cited Paper
     url: https://www.sciencedirect.com/science/article/pii/S0048969720378013 
     date: 'November 2021'
+    awarder: 
     summary: |
       The paper titled “Assessing the impact of COVID-19 pandemic on urban transportation and air quality in Canada” is recognized as an ESI Highly Cited Paper, ranking in the top 1% of cited papers in its field and publication year according to Essential Science Indicators (ESI).
 
   - title: Concordia experts on COP26
     url: https://www.concordia.ca/cunews/main/items/2021/10/21/media-experts-cop-26.html 
     date: 'October 2021'
+    awarder: 
     summary: |
       A number of experts from Concordia University are available to comment on the COP26 summit.
 
