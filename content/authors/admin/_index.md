@@ -41,10 +41,10 @@ profiles:
    # url: https://orcid.org/my-orcid?orcid=0009-0001-5158-462X
 
 interests:
-  - Transport of microplastics in cold regions
-  - Remediation technologies for microplastics in water
-  - Oil spill response
-  - Waste management
+  - Transportation sustainability and resilience
+  - Urban energy systems
+  - Greenhouse gas emissions mitigation assessment
+  - Energy management of heavy-duty electric vehicles
 
 education:
   - area: PhD Civil Engineering
