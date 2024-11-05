@@ -167,7 +167,7 @@ awards:
 
   - title: Certificate of Appreciation, People 2023 International Conference
     url: https://www.people-network.ca/index.php/people-2023/
-    date: 'August 2023'
+    date: '2023-08-01'
     awarder: People Network
     summary: |
       In recognition of my contribution as a Conference Secretariat at the PEOPLE 2023 International Conference on Collaborative Solutions to Environmental Problems under Climate Change.
