@@ -20,13 +20,7 @@ abstract: The electrification of public transit is one of the key actions in the
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
--	Greenhouse gas emissions
--	Transportation electrification
--	Decarbonization pathways
--	Carbon pricing
--	Climate policy
--	Cost-benefit analysis
+
 
 featured: true
 
