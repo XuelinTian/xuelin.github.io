@@ -22,9 +22,7 @@ tags:
 -	Carbon tax
 -	Decarbonization
 - Electrification abatement
--	Electrification penetration
--	Energy scenarios
--	Energy transition
+
 
 
 featured: true
