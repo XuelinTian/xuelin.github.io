@@ -20,7 +20,8 @@ abstract: Concerns regarding the negative impact of fossil fuels on the environm
 
 tags:
 -	Carbon tax
--	Decarbonization; Electrification abatement
+-	Decarbonization
+- Electrification abatement
 -	Electrification penetration
 -	Energy scenarios
 -	Energy transition
