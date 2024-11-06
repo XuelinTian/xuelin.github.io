@@ -24,11 +24,7 @@ abstract: Climate change, particularly in cold regions, significantly challenges
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
--	Public transport reliability
--	Interconnected infrastructure systems
--	Climate change; Extreme weather events
--	Snow water equivalent and snowmelt; Deep learning
+
 
 featured: true
 

@@ -20,12 +20,7 @@ abstract: The National Pollutant Release Inventory (NPRI) was enacted in Canada 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
--	Thermal power plant
--	NO2 emissions; Satellite verification
--	National pollutant release inventory
--	OMI
--	Information management tool
+
 
 featured: true
 
