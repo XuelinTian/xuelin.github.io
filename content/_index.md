@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: 20241105212437.jpg
           filters:
-            brightness: 0.7
+            brightness: 0.6
           size: cover
           position: center
           parallax: false
