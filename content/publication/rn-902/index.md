@@ -18,7 +18,8 @@ abstract: Concerns regarding the negative impact of fossil fuels on the environm
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-
+tags:
+- URBAN ENERGY SYSTEM
 
 featured: true
 

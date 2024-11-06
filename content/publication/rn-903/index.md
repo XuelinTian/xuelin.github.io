@@ -20,7 +20,8 @@ abstract: Understanding the emission characteristics in the evolution of private
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-
+tags:
+- TRANSPORTATION SUSTAINABILITY AND RESILIENCE
 
 featured: true
 
